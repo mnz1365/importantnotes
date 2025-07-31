@@ -1,4 +1,4 @@
-# importantnotes
+# Important Notes
 
 ## android app
 
